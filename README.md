@@ -1,3 +1,9 @@
+Collaborative filtering
+
+![wiki](https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_filtering.gif)
+
+
+
 Singular Value Decomposition, SVD<br>
 <br>
 $\displaystyle M=U\Sigma V^{*}\$
