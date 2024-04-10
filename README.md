@@ -1,3 +1,8 @@
+# Association Rule Learning(Aprori)
+
+![apriori](https://miro.medium.com/v2/resize:fit:1358/1*2EHWC8rFLkeuY9V-ydKUZg.gif)
+
+
 # Collaborative filtering
 
 ![wiki](https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_filtering.gif)
