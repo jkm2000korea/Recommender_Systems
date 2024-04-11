@@ -3,12 +3,16 @@
 
 
 
-# Association Rule Learning(Aprori)
+## 1. Association Rule Learning(Aprori)
 
 ![apriori](https://miro.medium.com/v2/resize:fit:1358/1*2EHWC8rFLkeuY9V-ydKUZg.gif)
 
+## 2. Content Based
+![content](https://miro.medium.com/max/998/1*O_GU8xLVlFx8WweIzKNCNw.png)m
 
-# Collaborative filtering
+
+
+## 3. Collaborative filtering
 
 ![wiki](https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_filtering.gif)
 
