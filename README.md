@@ -20,7 +20,7 @@
 
 # Singular Value Decomposition, SVD<br>
 <br>
-$\displaystyle M=U\Sigma V^{*}\$
+$displaystyle M=U\Sigma V^{*}$
 <br>
 
 
