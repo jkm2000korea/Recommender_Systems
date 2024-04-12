@@ -1,5 +1,8 @@
 # Explicit Feedback / Implicit Feedback
+
 ![feedback](https://www.researchgate.net/publication/375798498/figure/fig1/AS:11431281206254417@1700622747358/Examples-of-explicit-and-implicit-feedback.png)
+
+Alternating Least Squares(ALS)
 ![fomula](https://tech.kakao.com/storage/2022/01/01-11.png)
 
 # Recommender System tree
