@@ -1,6 +1,6 @@
 # Explicit Feedback / Implicit Feedback
 
-![feedback](https://www.researchgate.net/publication/375798498/figure/fig1/AS:11431281206254417@1700622747358/Examples-of-explicit-and-implicit-feedback.png)
+![feedback](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11257-023-09385-8/MediaObjects/11257_2023_9385_Fig1_HTML.png)
 
 Alternating Least Squares(ALS)
 ![fomula](https://tech.kakao.com/storage/2022/01/01-11.png)
