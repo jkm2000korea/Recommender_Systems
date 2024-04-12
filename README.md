@@ -1,3 +1,7 @@
+# Explicit Feedback / Implicit Feedback
+![feedback](https://www.researchgate.net/publication/375798498/figure/fig1/AS:11431281206254417@1700622747358/Examples-of-explicit-and-implicit-feedback.png)
+![fomula](https://tech.kakao.com/storage/2022/01/01-11.png)
+
 # Recommender System tree
 ![tree](https://dataenigmaco.wordpress.com/wp-content/uploads/2022/02/e9ea9-process-staffing-suggestion-recommendation-engine-results.png)
 
